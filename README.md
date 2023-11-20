@@ -55,7 +55,7 @@
 #### Случайные
 - *BP_RandomBonus (в виде подарочной коробки) *- дает случайный эффект (положительный или отрицательный)
 
-### Заимствования
+## Заимствования
 - [Генерация каркаса комнаты](https://www.youtube.com/watch?v=XgIDH42RHWQ&list=PLUVfF7mQpWjUUIlvMxvV206DpEdUpXtSZ&index=1)
 - [HealthBar](https://youtu.be/vO1i9Wcx4Xc?si=p8t48QgPmlAYeMtj)
 - [Боевая система](https://youtu.be/iPfU1SmzkkY?si=tWwho-cj9i9DAYOu)
